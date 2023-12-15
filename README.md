@@ -2,4 +2,4 @@
 
 potential Pairs selection for Pair trading using  Euclidean distance approach and Cointegration Tests
 
-https://github.com/abhijityaadav/Pair-Selection-for-Pairs-trading
+https://docs.google.com/document/d/103bxPOKNBHj7mhWyllvhFYe2lq6Ttzx4WjTlv1OJEes/edit
